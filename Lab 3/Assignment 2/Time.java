@@ -1,7 +1,3 @@
-
-package l3asi2;
-
-
 public class Time {
     
     private int hour;
